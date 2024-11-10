@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-    <img src="https://https://github.com/Rajasva-Raj-CODE/blob/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https:Rajasva-Raj-CODE/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 
