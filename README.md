@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/tejasvi8686/tejasvi8686/blob/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://github.com/Rajasva-Raj-CODE/Rajasva-Raj-CODE/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 
