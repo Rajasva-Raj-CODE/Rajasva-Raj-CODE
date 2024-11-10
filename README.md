@@ -10,18 +10,18 @@
     best decisions I've made🔥⚡</h3>
     
 <p align="center"> <img
-        src="https://komarev.com/ghpvc/?username=https://github.com/Rajasva-Raj-CODE&label=Profile%20views&color=0e75b6&style=flat"
+        src="https://komarev.com/ghpvc/?username=Rajasva-Raj-CODE&label=Profile%20views&color=0e75b6&style=flat"
         alt="tejasvi8686" /> </p>
 <p align="center">
     <img
-        src="https://github-readme-stats.vercel.app/api?username=https://github.com/Rajasva-Raj-CODE&show_icons=true&theme=tokyonight&hide_border=true" />
+        src="https://github-readme-stats.vercel.app/api?username=Rajasva-Raj-CODE&show_icons=true&theme=tokyonight&hide_border=true" />
     <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Rajasva-Raj-CODE&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&count-private=true" />
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajasva-Raj-CODE&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&count-private=true" />
 </p>
 
 <p align="center">
     <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=https://github.com/Rajasva-Raj-CODE&theme=tokyonight" />
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajasva-Raj-CODE&theme=tokyonight" />
 </p>
 
 <h2 align="center">Languages and Tools</h2>
@@ -33,9 +33,9 @@
 
 
 <p align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=https://github.com/Rajasva-Raj-CODE&theme=tokyonight&hide_border=true" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Rajasva-Raj-CODE&theme=tokyonight&hide_border=true" />
     <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=https://github.com/Rajasva-Raj-CODE&theme=tokyonight" />
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rajasva-Raj-CODE&theme=tokyonight" />
 </p>
 
 <p align="center">
