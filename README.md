@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hello there, I'm Rajasva Raj. A FullStack Developer 🔥⚡ </h1>
-<h3 align="center">I spend most of my time coding and doing Projects. I like to challenge myself, and being a developer is one of the
+<h3 align="center">I spend most of my time coding. I like to challenge myself, and being a developer is one of the
     best decisions I've made🔥⚡</h3>
     
 <p align="center"> <img
