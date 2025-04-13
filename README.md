@@ -7,7 +7,7 @@
     
 <p align="center"> <img
         src="https://komarev.com/ghpvc/?username=Rajasva-Raj-CODE&label=Profile%20views&color=0e75b6&style=flat"
-        alt="tejasvi8686" /> </p>
+        alt="tejasvi868" /> </p>
 <p align="center">
     <img
         src="https://github-readme-stats.vercel.app/api?username=Rajasva-Raj-CODE&show_icons=true&theme=tokyonight&hide_border=true" />
